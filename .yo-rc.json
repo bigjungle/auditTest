@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.jungle.app",
+            "nativeLanguage": "zh-cn"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "testaudit",
+        "packageName": "com.jungle.app",
+        "packageFolder": "com/jungle/app",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": "elasticsearch",
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "ZDMyYjMxZGViMjYzZDZlZTY2YmEwYjA0ZWE0ODc3NzdkZDZhNmFmZjllMjBiM2M1NDNjOTE3ZjI2NjM0NzgyMjExMjM3OGE2YjY1ODkxNzQ4NTQ5MTdhNDBjZDVmYzk5ZDY5YWU2MGU5ZWE4NjI2Nzc0MjRkYTY0ZWEzZGEwNGY=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "zh-cn",
+        "languages": ["zh-cn", "en"]
+    }
+}
