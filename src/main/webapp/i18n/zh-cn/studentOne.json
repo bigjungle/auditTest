@@ -1,0 +1,22 @@
+{
+    "testauditApp": {
+        "studentOne": {
+            "home": {
+                "title": "Student Ones",
+                "createLabel": "创建新 Student One",
+                "createOrEditLabel": "创建或编辑 Student One",
+                "search": "查找 Student One"
+            },
+            "created": "Student One {{ param }} 创建成功",
+            "updated": "Student One {{ param }} 更新成功",
+            "deleted": "Student One {{ param }} 删除成功",
+            "delete": {
+                "question": "你确定要删除 Student One {{ id }} 吗？"
+            },
+            "detail": {
+                "title": "Student One"
+            },
+            "name": "Name"
+        }
+    }
+}

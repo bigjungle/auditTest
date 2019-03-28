@@ -1,0 +1,18 @@
+entity StudentOne {
+    name String
+}
+
+entity TeacherOne {
+    name String
+}
+
+
+paginate  StudentOne , TeacherOne   with infinite-scroll
+
+//paginate with pagination
+dto * with mapstruct
+// Set service options to all except few
+service all with serviceImpl
+// Set an angular suffix
+angularSuffix * with sdmSuffix
+ //

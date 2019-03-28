@@ -1,0 +1,22 @@
+{
+    "testauditApp": {
+        "teacherOne": {
+            "home": {
+                "title": "Teacher Ones",
+                "createLabel": "创建新 Teacher One",
+                "createOrEditLabel": "创建或编辑 Teacher One",
+                "search": "查找 Teacher One"
+            },
+            "created": "Teacher One {{ param }} 创建成功",
+            "updated": "Teacher One {{ param }} 更新成功",
+            "deleted": "Teacher One {{ param }} 删除成功",
+            "delete": {
+                "question": "你确定要删除 Teacher One {{ id }} 吗？"
+            },
+            "detail": {
+                "title": "Teacher One"
+            },
+            "name": "Name"
+        }
+    }
+}

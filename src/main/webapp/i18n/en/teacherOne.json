@@ -1,0 +1,22 @@
+{
+    "testauditApp": {
+        "teacherOne": {
+            "home": {
+                "title": "Teacher Ones",
+                "createLabel": "Create a new Teacher One",
+                "createOrEditLabel": "Create or edit a Teacher One",
+                "search": "Search for Teacher One"
+            },
+            "created": "A new Teacher One is created with identifier {{ param }}",
+            "updated": "A Teacher One is updated with identifier {{ param }}",
+            "deleted": "A Teacher One is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Teacher One {{ id }}?"
+            },
+            "detail": {
+                "title": "Teacher One"
+            },
+            "name": "Name"
+        }
+    }
+}

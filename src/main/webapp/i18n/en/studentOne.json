@@ -1,0 +1,22 @@
+{
+    "testauditApp": {
+        "studentOne": {
+            "home": {
+                "title": "Student Ones",
+                "createLabel": "Create a new Student One",
+                "createOrEditLabel": "Create or edit a Student One",
+                "search": "Search for Student One"
+            },
+            "created": "A new Student One is created with identifier {{ param }}",
+            "updated": "A Student One is updated with identifier {{ param }}",
+            "deleted": "A Student One is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Student One {{ id }}?"
+            },
+            "detail": {
+                "title": "Student One"
+            },
+            "name": "Name"
+        }
+    }
+}
