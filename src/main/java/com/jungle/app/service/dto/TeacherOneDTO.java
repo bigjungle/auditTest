@@ -5,7 +5,7 @@ import java.util.Objects;
 /**
  * A DTO for the TeacherOne entity.
  */
-public class TeacherOneDTO implements Serializable {
+public class TeacherOneDTO extends AbstractAuditingDTO implements Serializable {
 
     private Long id;
 
