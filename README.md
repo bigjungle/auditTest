@@ -1,7 +1,10 @@
 # testaudit
 ![alt text](AuditDetails.png)
-
-
+```
+Jhipster import-jdl .\model\example.jdl --force
+npm install -g generator-jhipster-entity-audit
+yo jhipster-entity-audit 
+```
 This application was generated using JHipster 5.8.2, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.8.2](https://www.jhipster.tech/documentation-archive/v5.8.2).
 
 ## Development
